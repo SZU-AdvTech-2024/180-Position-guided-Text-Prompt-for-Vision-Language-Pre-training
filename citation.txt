@@ -1,0 +1,7 @@
+@inproceedings{REPO180,
+    author = "Wang, Jinpeng and Zhou, Pan and Shou, Mike Zheng and Yan, Shuicheng",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "23242--23251",
+    title = "{Position-guided text prompt for vision-language pre-training}",
+    year = "2023"
+}
