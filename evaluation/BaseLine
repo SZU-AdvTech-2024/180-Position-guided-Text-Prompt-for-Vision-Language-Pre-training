@@ -1,0 +1,540 @@
+
+ The evaluation scores about epoch 1 are: 
+
+Bleu_1: 0.6329
+
+Bleu_2: 0.4567
+
+Bleu_3: 0.3206
+
+Bleu_4: 0.2261
+
+METEOR: 0.1889
+
+ROUGE_L: 0.4658
+
+CIDEr: 0.4907
+
+SPICE: 0.1147
+
+ The evaluation scores about epoch 10 are: 
+
+Bleu_1: 0.6597
+
+Bleu_2: 0.4954
+
+Bleu_3: 0.3651
+
+Bleu_4: 0.2708
+
+METEOR: 0.2095
+
+ROUGE_L: 0.4962
+
+CIDEr: 0.6086
+
+SPICE: 0.1285
+
+ The evaluation scores about epoch 11 are: 
+
+Bleu_1: 0.6624
+
+Bleu_2: 0.4974
+
+Bleu_3: 0.3661
+
+Bleu_4: 0.2713
+
+METEOR: 0.2159
+
+ROUGE_L: 0.4994
+
+CIDEr: 0.6346
+
+SPICE: 0.1364
+
+ The evaluation scores about epoch 12 are: 
+
+Bleu_1: 0.6628
+
+Bleu_2: 0.5012
+
+Bleu_3: 0.3709
+
+Bleu_4: 0.2751
+
+METEOR: 0.2181
+
+ROUGE_L: 0.5031
+
+CIDEr: 0.6443
+
+SPICE: 0.1357
+
+ The evaluation scores about epoch 13 are: 
+
+Bleu_1: 0.6547
+
+Bleu_2: 0.4915
+
+Bleu_3: 0.3626
+
+Bleu_4: 0.2683
+
+METEOR: 0.2166
+
+ROUGE_L: 0.4992
+
+CIDEr: 0.6337
+
+SPICE: 0.1376
+
+ The evaluation scores about epoch 14 are: 
+
+Bleu_1: 0.6648
+
+Bleu_2: 0.5029
+
+Bleu_3: 0.3723
+
+Bleu_4: 0.2760
+
+METEOR: 0.2182
+
+ROUGE_L: 0.5035
+
+CIDEr: 0.6460
+
+SPICE: 0.1386
+
+ The evaluation scores about epoch 15 are: 
+
+Bleu_1: 0.6604
+
+Bleu_2: 0.4993
+
+Bleu_3: 0.3703
+
+Bleu_4: 0.2751
+
+METEOR: 0.2196
+
+ROUGE_L: 0.5048
+
+CIDEr: 0.6540
+
+SPICE: 0.1402
+
+ The evaluation scores about epoch 16 are: 
+
+Bleu_1: 0.6567
+
+Bleu_2: 0.4977
+
+Bleu_3: 0.3701
+
+Bleu_4: 0.2764
+
+METEOR: 0.2229
+
+ROUGE_L: 0.5044
+
+CIDEr: 0.6648
+
+SPICE: 0.1412
+
+ The evaluation scores about epoch 17 are: 
+
+Bleu_1: 0.6630
+
+Bleu_2: 0.5028
+
+Bleu_3: 0.3733
+
+Bleu_4: 0.2778
+
+METEOR: 0.2243
+
+ROUGE_L: 0.5073
+
+CIDEr: 0.6778
+
+SPICE: 0.1439
+
+ The evaluation scores about epoch 18 are: 
+
+Bleu_1: 0.6605
+
+Bleu_2: 0.5019
+
+Bleu_3: 0.3755
+
+Bleu_4: 0.2809
+
+METEOR: 0.2190
+
+ROUGE_L: 0.5033
+
+CIDEr: 0.6548
+
+SPICE: 0.1381
+
+ The evaluation scores about epoch 19 are: 
+
+Bleu_1: 0.6567
+
+Bleu_2: 0.4961
+
+Bleu_3: 0.3658
+
+Bleu_4: 0.2704
+
+METEOR: 0.2247
+
+ROUGE_L: 0.5053
+
+CIDEr: 0.6773
+
+SPICE: 0.1471
+
+ The evaluation scores about epoch 2 are: 
+
+Bleu_1: 0.6261
+
+Bleu_2: 0.4551
+
+Bleu_3: 0.3248
+
+Bleu_4: 0.2326
+
+METEOR: 0.1945
+
+ROUGE_L: 0.4680
+
+CIDEr: 0.5203
+
+SPICE: 0.1167
+
+ The evaluation scores about epoch 20 are: 
+
+Bleu_1: 0.6612
+
+Bleu_2: 0.4999
+
+Bleu_3: 0.3699
+
+Bleu_4: 0.2751
+
+METEOR: 0.2228
+
+ROUGE_L: 0.5045
+
+CIDEr: 0.6678
+
+SPICE: 0.1434
+
+ The evaluation scores about epoch 21 are: 
+
+Bleu_1: 0.6594
+
+Bleu_2: 0.4998
+
+Bleu_3: 0.3717
+
+Bleu_4: 0.2776
+
+METEOR: 0.2243
+
+ROUGE_L: 0.5073
+
+CIDEr: 0.6793
+
+SPICE: 0.1445
+
+ The evaluation scores about epoch 22 are: 
+
+Bleu_1: 0.6506
+
+Bleu_2: 0.4918
+
+Bleu_3: 0.3627
+
+Bleu_4: 0.2683
+
+METEOR: 0.2281
+
+ROUGE_L: 0.5076
+
+CIDEr: 0.6792
+
+SPICE: 0.1477
+
+ The evaluation scores about epoch 23 are: 
+
+Bleu_1: 0.6544
+
+Bleu_2: 0.4960
+
+Bleu_3: 0.3687
+
+Bleu_4: 0.2755
+
+METEOR: 0.2263
+
+ROUGE_L: 0.5068
+
+CIDEr: 0.6821
+
+SPICE: 0.1456
+
+ The evaluation scores about epoch 24 are: 
+
+Bleu_1: 0.6502
+
+Bleu_2: 0.4922
+
+Bleu_3: 0.3651
+
+Bleu_4: 0.2728
+
+METEOR: 0.2279
+
+ROUGE_L: 0.5069
+
+CIDEr: 0.6785
+
+SPICE: 0.1476
+
+ The evaluation scores about epoch 25 are: 
+
+Bleu_1: 0.6494
+
+Bleu_2: 0.4917
+
+Bleu_3: 0.3660
+
+Bleu_4: 0.2735
+
+METEOR: 0.2273
+
+ROUGE_L: 0.5066
+
+CIDEr: 0.6784
+
+SPICE: 0.1460
+
+ The evaluation scores about epoch 26 are: 
+
+Bleu_1: 0.6518
+
+Bleu_2: 0.4933
+
+Bleu_3: 0.3669
+
+Bleu_4: 0.2744
+
+METEOR: 0.2282
+
+ROUGE_L: 0.5079
+
+CIDEr: 0.6819
+
+SPICE: 0.1476
+
+ The evaluation scores about epoch 27 are: 
+
+Bleu_1: 0.6600
+
+Bleu_2: 0.5017
+
+Bleu_3: 0.3741
+
+Bleu_4: 0.2800
+
+METEOR: 0.2285
+
+ROUGE_L: 0.5101
+
+CIDEr: 0.6913
+
+SPICE: 0.1468
+
+ The evaluation scores about epoch 28 are: 
+
+Bleu_1: 0.6558
+
+Bleu_2: 0.4971
+
+Bleu_3: 0.3697
+
+Bleu_4: 0.2760
+
+METEOR: 0.2290
+
+ROUGE_L: 0.5090
+
+CIDEr: 0.6874
+
+SPICE: 0.1487
+
+ The evaluation scores about epoch 29 are: 
+
+Bleu_1: 0.6540
+
+Bleu_2: 0.4961
+
+Bleu_3: 0.3698
+
+Bleu_4: 0.2772
+
+METEOR: 0.2294
+
+ROUGE_L: 0.5099
+
+CIDEr: 0.6915
+
+SPICE: 0.1491
+
+ The evaluation scores about epoch 3 are: 
+
+Bleu_1: 0.6283
+
+Bleu_2: 0.4552
+
+Bleu_3: 0.3235
+
+Bleu_4: 0.2316
+
+METEOR: 0.1911
+
+ROUGE_L: 0.4658
+
+CIDEr: 0.5069
+
+SPICE: 0.1155
+
+ The evaluation scores about epoch 30 are: 
+
+Bleu_1: 0.6528
+
+Bleu_2: 0.4950
+
+Bleu_3: 0.3685
+
+Bleu_4: 0.2757
+
+METEOR: 0.2295
+
+ROUGE_L: 0.5086
+
+CIDEr: 0.6851
+
+SPICE: 0.1488
+
+ The evaluation scores about epoch 4 are: 
+
+Bleu_1: 0.6242
+
+Bleu_2: 0.4494
+
+Bleu_3: 0.3192
+
+Bleu_4: 0.2296
+
+METEOR: 0.1906
+
+ROUGE_L: 0.4640
+
+CIDEr: 0.4979
+
+SPICE: 0.1122
+
+ The evaluation scores about epoch 5 are: 
+
+Bleu_1: 0.6226
+
+Bleu_2: 0.4489
+
+Bleu_3: 0.3221
+
+Bleu_4: 0.2348
+
+METEOR: 0.1922
+
+ROUGE_L: 0.4661
+
+CIDEr: 0.4987
+
+SPICE: 0.1152
+
+ The evaluation scores about epoch 6 are: 
+
+Bleu_1: 0.6258
+
+Bleu_2: 0.4509
+
+Bleu_3: 0.3220
+
+Bleu_4: 0.2326
+
+METEOR: 0.1896
+
+ROUGE_L: 0.4675
+
+CIDEr: 0.4957
+
+SPICE: 0.1135
+
+ The evaluation scores about epoch 7 are: 
+
+Bleu_1: 0.6266
+
+Bleu_2: 0.4554
+
+Bleu_3: 0.3270
+
+Bleu_4: 0.2371
+
+METEOR: 0.1942
+
+ROUGE_L: 0.4692
+
+CIDEr: 0.5220
+
+SPICE: 0.1184
+
+ The evaluation scores about epoch 8 are: 
+
+Bleu_1: 0.6258
+
+Bleu_2: 0.4536
+
+Bleu_3: 0.3242
+
+Bleu_4: 0.2332
+
+METEOR: 0.1949
+
+ROUGE_L: 0.4682
+
+CIDEr: 0.5207
+
+SPICE: 0.1192
+
+ The evaluation scores about epoch 9 are: 
+
+Bleu_1: 0.6490
+
+Bleu_2: 0.4814
+
+Bleu_3: 0.3518
+
+Bleu_4: 0.2591
+
+METEOR: 0.2045
+
+ROUGE_L: 0.4874
+
+CIDEr: 0.5675
+
+SPICE: 0.1218
